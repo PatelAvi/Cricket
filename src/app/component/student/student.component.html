@@ -1,0 +1,6 @@
+<!-- <app-adddata (addStudent) = "addStudent($event)"></app-adddata>
+<router-outlet></router-outlet> -->
+
+<app-student-item *ngFor="let data of datas" [data]="data">
+    <li>{{ data.studentname }} {{ data.enrollment}} {{ data.subject1}} {{ data.subject2}} {{ data.subject3}}</li>
+</app-student-item>

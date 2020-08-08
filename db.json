@@ -1,0 +1,44 @@
+{
+    "Student" : [
+        {
+            "id" : "1",
+            "StudentName" : "Avi Patel",
+            "Enrollment" : "201606100110042",
+            "SubjectMarks1" : "90",
+            "SubjectMarks2" : "80",
+            "SubjectMarks3" : "85"
+        },
+        {
+            "id" : "2",
+            "StudentName" : "Shweta Vashi",
+            "Enrollment" : "201606100110012",
+            "SubjectMarks1" : "95",
+            "SubjectMarks2" : "97",
+            "SubjectMarks3" : "99"
+        },
+        {
+            "id" : "3",
+            "StudentName" : "Harsh Patel",
+            "Enrollment" : "201606100110076",
+            "SubjectMarks1" : "70",
+            "SubjectMarks2" : "70",
+            "SubjectMarks3" : "75"
+        },
+        {
+            "id" : "4",
+            "StudentName" : "Adarsh Kaklotar",
+            "Enrollment" : "201606100110082",
+            "SubjectMarks1" : "90",
+            "SubjectMarks2" : "85",
+            "SubjectMarks3" : "85"
+        },
+        {
+            "id" : "5",
+            "StudentName" : "Rajan Prajapati",
+            "Enrollment" : "201606100110041",
+            "SubjectMarks1" : "90",
+            "SubjectMarks2" : "80",
+            "SubjectMarks3" : "85"
+        }
+    ]
+}
